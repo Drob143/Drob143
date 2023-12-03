@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Alexis
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python and software engineering in general
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning mobile development
+- 📫 How to reach me thrasherhag@gmail.com
 
 <!---
 Drob143/Drob143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
